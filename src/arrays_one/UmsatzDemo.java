@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package arrays_one;
+
 import java.util.Random;
 
 public class UmsatzDemo {
